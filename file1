@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-   int a=10,*ptr;
+   int a=10,b,*ptr;
     ptr=&a;
     printf("%p\n",ptr);
     }
